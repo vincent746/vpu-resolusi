@@ -7,4 +7,5 @@ STRUKTUR PROJECT
 -Membuat Upload Gambar atau File
 -Membuat Form Login dan Registrasi
 -Membuat Session
+  *Session Pada Login
 -membuat remember me dengan PHPMailer
