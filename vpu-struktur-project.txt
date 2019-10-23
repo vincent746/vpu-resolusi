@@ -3,6 +3,9 @@ STRUKTUR PROJECT
 -Membuat analisa design Tamplate menggunakan Dreamweaver
 -Membuat Tamplate responsive ke semua device
 -Membuat analisa database
+-membuat 2 user
+ * administrator
+ * user
 -Membuat CRUD
 -Membuat Upload Gambar atau File
 -Membuat Form Login dan Registrasi
