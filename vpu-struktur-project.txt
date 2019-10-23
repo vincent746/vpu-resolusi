@@ -1,0 +1,10 @@
+STRUKTUR PROJECT
+
+-Membuat analisa design Tamplate menggunakan Dreamweaver
+-Membuat Tamplate responsive ke semua device
+-Membuat analisa database
+-Membuat CRUD
+-Membuat Upload Gambar atau File
+-Membuat Form Login dan Registrasi
+-Membuat Session
+-membuat remember me dengan PHPMailer
