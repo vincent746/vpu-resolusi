@@ -1,0 +1,3 @@
+VPU RESOLUSI
+- Kedepannya akan membuat suatu project Absensi Sekolah Berbasis Online
+- Bahasa Program yang di gunakan adalah HTML5&CSS3, Bootstrap4, PHP&MYSQL dan PHPMailer
